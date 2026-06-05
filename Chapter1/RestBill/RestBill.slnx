@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RestBill/RestBill.vcxproj" Id="b206cdfc-7bf8-4328-8c19-3ab9e0c029b6" />
+</Solution>
